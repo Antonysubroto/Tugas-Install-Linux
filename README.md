@@ -62,7 +62,7 @@ Cara Menginstall Linux Lewat Virtual Box
 17. Recommended Software
 ![9](https://github.com/user-attachments/assets/7c144118-5ce0-4e23-93be-04ab6a6c23d6)
 
-18. Pilih "Erase Disk and Install Ubbuntu"
+18. Pilih "Erase Disk and Install Ubuntu"
 ![10](https://github.com/user-attachments/assets/73b1b7b8-4fee-4e20-814e-bfcea96b7674)
 
 19. Buat akun
@@ -74,7 +74,7 @@ Cara Menginstall Linux Lewat Virtual Box
 21. Klik "Install"
 ![13](https://github.com/user-attachments/assets/acba8ace-cf1e-427c-953c-53b026bc16c3)
 
-22. Tunggu Hingga Instalasi Sekesai
+22. Tunggu Hingga Instalasi Selesai
 ![14](https://github.com/user-attachments/assets/b5517fa0-d4aa-40b1-8638-a83836777011)
 ![IMG_20250213_104051](https://github.com/user-attachments/assets/35261ab0-bfa3-4dfa-9b2a-f94f2de550c5)
 
